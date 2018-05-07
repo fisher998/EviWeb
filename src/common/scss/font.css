@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'akzidenzgrotesk-light-webfont';
+    src: url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.woff') format('woff'), /* Pretty Modern Browsers */ url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/akzidenzgrotesk-light-webfont/akzidenzgrotesk-light-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

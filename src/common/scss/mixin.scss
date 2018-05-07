@@ -1,0 +1,10 @@
+@mixin dotted($color: #427DFF) {
+    content: '';
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: $color;
+}
